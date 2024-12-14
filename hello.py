@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import datetime
-import networkx as nx
 from st_link_analysis import st_link_analysis, NodeStyle, EdgeStyle, Event
 from uuid import uuid4
 
